@@ -5,7 +5,7 @@
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  }, 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joselgomezc22/gradi-node-api.git"
@@ -22,7 +22,6 @@
     "nodemon": "^2.0.13"
   },
   "dependencies": {
-    "@shopify/shopify-api": "^1.4.1",
     "axios": "^0.22.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
